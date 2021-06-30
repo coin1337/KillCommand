@@ -1,0 +1,5 @@
+name: KillCommand
+main: me.christallinqq.killcommand.killcommand
+version: 2
+author: christallinqq
+description: Reverts the functionality of /kill back to the old default (for anyone who doesn't have the minecraft.command.kill permission)
